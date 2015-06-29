@@ -1,0 +1,1 @@
+This project was created due to lack of useable PDP11 toolchain. Based on previous porting experience, i've choose binutils 2.19 and gcc-4.3.2 as starting point. While there's _some_ PDP11 support there, it's mostly broken. I'm planning to add SAV file format support to binutils, as well as library stub to produce RT11 5.4 and higher compatible binaries.
